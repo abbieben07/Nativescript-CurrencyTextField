@@ -1,5 +1,5 @@
 {
-    "name": "@nativescript-community/currency-textfield",
+    "name": "nativescript-currencytextfield",
     "version": "1.0.1",
     "description": "This is the description for the plugin seed. This is what will be published to NPM.",
     "main": "./currency-textfield",
@@ -21,12 +21,31 @@
         "Svelte",
         "Vue"
     ],
+    "plugin": {
+        "nan": "false",
+        "pan": "true",
+        "core3": "false",
+        "core4": "false",
+        "core5": "false",
+        "core6": "true",
+        "vue": "true",
+        "svelte": "false",
+        "react": "false",
+        "webpack": "false",
+        "category": "Interface",
+        "wrapper": ""
+    },
+    "demo": https: //github.com/abbieben07/Nativescript-CurrencyTextField/tree/master/demo-snippets,
     "bugs": {
-        "url": "https://github.com/nativescript-community/currency-textfield/issues"
+        "url": "https://github.com/abbieben07/Nativescript-CurrencyTextField/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/nativescript-community/currency-textfield"
+        "url": "https://github.com/abbieben07/Nativescript-CurrencyTextField"
+    },
+    "author": {
+        "name": "Abraham Ben-Obaje",
+        "email": "abbieben07@gmail.com"
     },
     "license": "Apache-2.0",
     "readmeFilename": "README.md"
